@@ -15,7 +15,9 @@ A short-form book quote viewer. Swipe, scroll, or navigate through inspiring quo
 - Styling: Tailwind CSS
 - API: Recite Quotes API `https://recite.onrender.com/api/v1`
 - Icons: Lucide React
-- **Clone repo & install dependencies**:
+
+
+ **_Clone repo & install dependencies_**:
 
 ```bash
 git clone https://github.com/muhammedajmalkt/Quote-reel.git
@@ -25,13 +27,13 @@ npm install
 
 ```
 
-**Run the development server**:
+**_Run the development server_**
 
 ```bash
 npm run dev
 ```
 
-**Open in your browser**:
+**_Open in your browser_**:
 
 ```bash
 https://quotereel-litflips.netlify.app/
